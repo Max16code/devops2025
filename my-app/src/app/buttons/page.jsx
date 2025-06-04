@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <h1>Welcome to My Next.js App</h1>
       <Button text="Click Me" color="blue" />
-      <Button text="Cancel you" color="pink" />
+      <Button text="Cancel you and me" color="pink" />
     </div>
   );
 }
